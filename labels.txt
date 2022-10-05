@@ -1,0 +1,10 @@
+0 Tomato_BacterialSpot 
+1 Tomato_Early_Blight
+2 Tomato_Healthy
+3 Tomato_late_blight
+4 Tomato_leafmold
+5 Septoria_leaf_spot
+6 Spider_mites Two_spotted_spider_mite
+7 Tomato_target_spot
+8 Tomato_mosaic_virus
+9 Class 10
